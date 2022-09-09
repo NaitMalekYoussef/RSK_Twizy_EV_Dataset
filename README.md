@@ -4,7 +4,7 @@ This reposotory contains the dataset collected from a Twizy electric vehicle in 
 During the collect of the dataset, three main trajectories were selected; T1,T2 and TM.
 * The **T1** trajectroy is done mostly in an urban road with a segment in a ring road (**red** in the figure bellow).
 * The **T2** trajectory is done in an urban road (**blue** in the figure bellow).
-* The **TM** trajectory is done in a ring road (**black** in the figure bellow).
+* The **T3** trajectory is done in a ring road (**black** in the figure bellow).
 
 
 ![used trajectories](trajectories.png)
@@ -30,3 +30,7 @@ The collected dataset contains the following fields:
     * 2 : high traffic
 * **SpeedLimit**: the speed limit in a current road segment.
 
+
+
+#License
+This data-set is under the [CC-BY-4.0 license](./LICENSE.md).
