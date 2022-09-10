@@ -11,7 +11,7 @@ During the collect of the dataset (the collect process take place in different d
   average of 18 minutes.
 
 
-![used trajectories](trajectories.png)
+![used trajectories](./figures/trajectories.png)
 
 # Collected data
 ---
@@ -50,7 +50,7 @@ The figure bellow present a data simple of each trajectory. The data presented i
 ![Data collection system](./figures/speed_profiles.png)
 
 # References
-* Malek, Y. N., Najib, M., Bakhouya, M., & Essaaidi, M. (2021). Multivariate deep learning approach for electric vehicle speed forecasting. Big Data Mining and Analytics, 4(1), 56-64.
+* NaitMalek, Y., Najib, M., Bakhouya, M., & Essaaidi, M. (2021). Multivariate deep learning approach for electric vehicle speed forecasting. Big Data Mining and Analytics, 4(1), 56-64.
 * NaitMalek, Y., Najib, M., Lahlou, A., Bakhouya, M., Gaber, J., & Essaaidi, M. (2022). A Hybrid Approach for State-of-Charge Forecasting in Battery-Powered Electric Vehicles. Sustainability, 14(16), 9993.
 
 
