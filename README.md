@@ -21,11 +21,11 @@ The collected dataset contains the following fields:
 * **SoC**: The battery State of Charge (**%**).
 * **Speed**: The vehicle speed  (**Km/h**).
 * **Mode**: The driving mode (**N**eutral,**D**rive,**R**everse)
-* **LAT**: The vehicles' latitude ($^{\circ}$).
-* **LON**: The vehicles' longitude ($^{\circ}$).
+* **LAT**: The vehicles' latitude (°).
+* **LON**: The vehicles' longitude (°).
 * **ALT**: The vehicles' altitude related to the sea (**m**).
 * **GpsSpeed**: The vehicle speed acquired from the GPS module (**Km/h**).
-* **Temperature**: The external ambient temperature ($^{\circ}$C).
+* **Temperature**: The external ambient temperature (°C).
 * **Humidity**: The external relative humidity (\%).
 * **Weather**: The weather status (**cloudy**, **sunny**, **raining ...).
 * **WindSpeed**: The average wind speed (**m/s**).
