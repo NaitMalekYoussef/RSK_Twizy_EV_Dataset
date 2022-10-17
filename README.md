@@ -3,7 +3,10 @@
 [![DOI](https://zenodo.org/badge/529137067.svg)](https://zenodo.org/badge/latestdoi/529137067) [![License: CC
 BY
 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![GitHub repo size](https://img.shields.io/github/repo-size/NaitMalekYoussef/RSK_Twizy_EV_Dataset) ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/NaitMalekYoussef/RSK_Twizy_EV_Dataset?sort=semver)
+![GitHub repo size](https://img.shields.io/github/repo-size/NaitMalekYoussef/RSK_Twizy_EV_Dataset) ![GitHub
+release (latest
+SemVer)](https://img.shields.io/github/v/release/NaitMalekYoussef/RSK_Twizy_EV_Dataset?sort=semver)
+
 This repository contains the dataset collected from a Twizy electric vehicle in the roads of Rabat-Sale-Kenetra
 (RSK), Morocco.
 During the collect of the dataset (the collect process take place in different days, between March to July 2021), three main trajectories were selected; T1,T2 and T3.
