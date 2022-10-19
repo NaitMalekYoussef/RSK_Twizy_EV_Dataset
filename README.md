@@ -22,7 +22,8 @@ During the collect of the dataset (the collect process take place in different d
 
 # Collected data
 ---
-The collected dataset contains the following fields:
+The dataset is composed of raw dataset and analyzed dataset.
+The analyzed dataset contains the following fields:
 * **Date** : The date of the driving cycle (**M**onth/**D**ay/**Y**ear).
 * **Time** : The time during the driving cycle (**H**ours:**M**inutes:**S**econds) .
 * **SoC**: The battery State of Charge (**%**).
@@ -42,6 +43,11 @@ The collected dataset contains the following fields:
     * **2** : high traffic
 * **SpeedLimit**: The speed limit in the current road segment (**Km/h**).
 
+I addition to those fields, the raw data contains the following fields:
+* **Odometer** : The distance traveled by the EV(**Km**)
+* **ExactSpeed** : The exact EV speed, this value is collected directly from the EV using the CAN Bus like the EV speed, but sometimes their values are not equal. (**Km/h**)
+* **Id** : The id of the CAN Bus message
+* **Data** : The collected data messages from the CAN Bus in Hex values
 # Data collection system
 ---
 The data collection system is composed of an embedded system that is deployed in a Renault Twizy. The embedded
