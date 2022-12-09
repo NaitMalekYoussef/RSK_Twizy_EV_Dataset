@@ -63,7 +63,8 @@ The figure bellow present a data simple of each trajectory. The data presented i
 ![Data collection system](./figures/speed_profiles.png)
 
 # References
-* NaitMalek, Y., Najib, M., Bakhouya, M., & Essaaidi, M. (2021). Multivariate deep learning approach for  electric vehicle speed forecasting. Big Data Mining and Analytics, 4(1), 56-64. [https://doi.org/10.26599/BDMA.2020.9020027](https://doi.org/10.26599/BDMA.2020.9020027).
+* NaitMalek, Y., Najib, M., Bakhouya, M., & Essaaidi, M. (2021). Multivariate deep learning approach for  electric vehicle speed forecasting. Big Data Mining and Analytics, 4(1), pp. 56-64. [https://doi.org/10.26599/BDMA.2020.9020027](https://doi.org/10.26599/BDMA.2020.9020027).
+* NaitMalek, Y., Najib, M., Bakhouya, M., Gaber, J., & Essaaidi, M. (2022). Embedded Real-time Speed Forecasting for Electric Vehicles: A Case Study on RSK Urban Roads. IEEE Access, vol. 10, pp. 126412-126428. [https://doi.org/10.1109/ACCESS.2022.3225643](https://doi.org/10.1109/ACCESS.2022.3225643)
 * NaitMalek, Y., Najib, M., Lahlou, A., Bakhouya, M., Gaber, J., & Essaaidi, M. (2022). A Hybrid Approach for State-of-Charge Forecasting in Battery-Powered Electric Vehicles. Sustainability, 14(16), 9993. [https://doi.org/10.3390/su14169993](https://doi.org/10.3390/su14169993).
 
 
